@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShop", "SampleApplication\BethanysPieShop.csproj", "{7F441896-FE99-4077-8436-37F478168E3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopTests", "BethanysPieShopTests\BethanysPieShopTests.csproj", "{827A007D-34C0-48A0-B385-805A1E8470E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F441896-FE99-4077-8436-37F478168E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F441896-FE99-4077-8436-37F478168E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F441896-FE99-4077-8436-37F478168E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F441896-FE99-4077-8436-37F478168E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827A007D-34C0-48A0-B385-805A1E8470E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827A007D-34C0-48A0-B385-805A1E8470E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827A007D-34C0-48A0-B385-805A1E8470E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827A007D-34C0-48A0-B385-805A1E8470E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FCBE264-95B1-416D-86A3-295AFDEDF2A4}
+	EndGlobalSection
+EndGlobal
